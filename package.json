@@ -50,18 +50,20 @@
     "debug": "^4.1.1",
     "p-map": "^4.0.0",
     "packageurl-js": "^1.0.0",
-    "shescape": "1.7.4",
-    "tmp": "0.2.1",
+    "shescape": ">=1.7.4",
+    "tmp": ">=0.2.6",
     "tslib": "^2.0.0"
   },
   "engines": {
     "node": ">=16"
   },
-  "version": "5.1.1-lineaje-01",
+  "version": "5.1.1-lineaje-02",
   "overrides": {
-    "shescape": "1.7.4"
+    "shescape": ">=1.7.4",
+    "tmp": ">=0.2.6"
   },
   "resolutions": {
-    "shescape": "1.7.4"
+    "shescape": ">=1.7.4",
+    "tmp": ">=0.2.6"
   }
 }
