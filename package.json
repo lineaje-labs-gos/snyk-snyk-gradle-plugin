@@ -4,7 +4,7 @@
   "homepage": "https://github.com/snyk/snyk-gradle-plugin#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/snyk/snyk-gradle-plugin.git"
+    "url": "https://github.com/lineaje-labs-gos/snyk-snyk-gradle-plugin"
   },
   "bugs": {
     "url": "https://github.com/snyk/snyk-gradle-plugin/issues"
@@ -28,6 +28,12 @@
   },
   "author": "snyk.io",
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
@@ -68,5 +74,6 @@
   },
   "volta": {
     "node": "24.15.0"
-  }
+  },
+  "version": "7.1.0-lineaje-01"
 }
